@@ -48,4 +48,3 @@ Al consultar por un hotel en particular, a la informacion anterior se debe agreg
 - Por cada categoria, cantidad de habitaciones ocupadas
 - Por cada categoria, cantidad de habitaciones disponibles
 - Por cada categoria, porcentaje de ocupacion.
-- Criticas de los usuarios, que se componen de un puntaje que va de 0 a 5 y un texto breve. (El "puntaje" de cada hotel debe calcularse con el promedio de estas criticas)
